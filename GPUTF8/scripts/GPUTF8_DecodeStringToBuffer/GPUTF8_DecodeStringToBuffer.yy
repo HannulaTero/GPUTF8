@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GPUTF8_DecodeStringToBuffer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GPUTF8_DecodeStringToBuffer",
+  "parent":{
+    "name":"GPUTF8",
+    "path":"folders/GPUTF8.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GPUTF8_DecodeSurfaceToSurface",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GPUTF8_DecodeSurfaceToSurface",
+  "parent":{
+    "name":"GPUTF8",
+    "path":"folders/GPUTF8.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

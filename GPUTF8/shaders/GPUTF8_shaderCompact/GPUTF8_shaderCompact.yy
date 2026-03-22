@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"GPUTF8_shaderCompact",
+  "name":"GPUTF8_shaderCompact",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/GPUTF8/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
